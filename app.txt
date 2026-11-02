@@ -2,3 +2,4 @@ welcome app
 welcome login
 welcome dashboard
 
+welcome merge
