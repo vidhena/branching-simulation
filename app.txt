@@ -1,2 +1,4 @@
 welcome app
 welcome login
+welcome dashboard
+
